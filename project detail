@@ -1,0 +1,16 @@
+# Kirana Store Calculator Program 🛒
+
+Ye Python ka ek simple program hai jo ek Kirana Store ke liye calculator ka kaam karta hai.  
+Isme aap apne items ki price enter kar sakte hain aur total bill dekh sakte hain.
+
+## Features:
+- Multiple items ki price add karna  
+- Final bill show karna  
+- Invalid input ke liye error message  
+
+## How to Use:
+1. Program ko run karo.  
+2. Items ki price enter karo.  
+3. Jab kharidna khatam ho, `q` press karo.  
+
+## Sample Output:

@@ -1,0 +1,12 @@
+Enter Your price (or press 'q' to quit): 50
+Your total is now: ₹50
+
+Enter Your price (or press 'q' to quit): 20
+Your total is now: ₹70
+
+Enter Your price (or press 'q' to quit): 30
+Your total is now: ₹100
+
+Enter Your price (or press 'q' to quit): q
+Final total price: ₹100
+Thank you for shopping at kirana store!
